@@ -26,7 +26,6 @@ public class main {
 		divisao(0, 10);
 		divisao(0, 0);
 		divisao(1, -2);
-		divisao(10, -3);
 		
 
 	}
