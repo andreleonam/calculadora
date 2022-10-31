@@ -17,6 +17,7 @@ public class main {
 		System.out.println("Multiplicacao: " + multiplicacao(0, 5));
 		System.out.println("Multiplicacao: " + multiplicacao(3, 0));
 		System.out.println("Multiplicacao: " + multiplicacao(0, 0));
+		System.out.println("Multiplicacao: " + multiplicacao(23, 45));
 
 		divisao(10, -2);
 		divisao(-10, -2);
@@ -25,7 +26,8 @@ public class main {
 		divisao(0, 10);
 		divisao(0, 0);
 		divisao(1, -2);
-		divisao(10, -2);
+		divisao(10, -3);
+		
 
 	}
 
