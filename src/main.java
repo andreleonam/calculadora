@@ -84,7 +84,7 @@ public class main {
 		int num = Math.abs(x);
 		int quo = Math.abs(y);
 
-		if ((y == 0) && (x == 0)) {
+		if ((quo == 0) && (num == 0)) {
 			System.out.println("Valor indeterminado");
 		} else if (y == 0) {
 			System.out.println("Erro: Divisao por zero");
