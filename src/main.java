@@ -87,7 +87,7 @@ public class main {
 		if ((y == 0) && (x == 0)) {
 			System.out.println("Valor indeterminado");
 		} else if (y == 0) {
-			System.out.println("Divisao por zero");
+			System.out.println("Erro: Divisao por zero");
 		} else if (Math.abs(x) < Math.abs(y)) {
 			System.out.println("Divisao: " + aux);
 		} else {
